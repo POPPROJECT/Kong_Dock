@@ -3,7 +3,7 @@
 ## Set Up
 ``` bash
 # step 1
-$ https://github.com/POPPROJECT/Kong_Dock
+$ git clone https://github.com/POPPROJECT/Kong_Dock
 
 # step 2
 $ docker network create webproxy
